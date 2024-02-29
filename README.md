@@ -1,5 +1,5 @@
 ## Hello, I am Lakshan Madhushanka 👋
-- 📈 I have 4 years of full stack development experience [more back-end (PHP/Laravel)].
+- 📈 I have 4 years of full stack development experience.
 - 👀 I’m interested in Laravel and modern web development trends. 
 - 🌱 I’m currently working at WMD.
 - 💞️ I’m looking to collaborate on open source projects.
