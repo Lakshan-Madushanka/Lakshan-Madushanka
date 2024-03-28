@@ -7,6 +7,8 @@
 
 *Anyone is welcome to go through my open source projects and make suggestions or report issues through above email address*
 
+![Lakshan-Madushanka's Stats](https://github-readme-stats.vercel.app/api?username=Lakshan-Madushanka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 <!---
 Lakshan-Madushanka/Lakshan-Madushanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
