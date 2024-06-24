@@ -1,4 +1,6 @@
-## Hello, I am Lakshan Madhushanka 👋
+<img src="https://github.com/Lakshan-Madushanka/wordle/assets/47297673/bc5f36ea-d703-44ff-be3c-571303eef28d" alt='banner'>
+
+## Hi, I am Lakshan Madhushanka 👋
 - 📈 I have 4 years of full stack development experience.
 - 👀 I’m interested in Laravel and modern web development trends. 
 - 🌱 I’m currently working at WMD.
