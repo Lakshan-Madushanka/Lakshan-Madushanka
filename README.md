@@ -1,4 +1,4 @@
-<img src="https://github.com/Lakshan-Madushanka/wordle/assets/47297673/bc5f36ea-d703-44ff-be3c-571303eef28d" alt='banner'>
+<img src="https://github.com/user-attachments/assets/67c91f17-4277-4f94-ad6a-762a90bec70e" alt='banner'>
 
 ## Hi, I am Lakshan Madhushanka 👋
 - 📈 I am an experienced full-stack developer.
